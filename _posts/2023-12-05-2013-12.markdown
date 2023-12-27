@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "December 2023: When the Tiger Came Down the Mountain"
+date:   2023-12-05 15:56:05 -0500
+categories: book 2023
+---
+
+<!-- ![book-cover](/unerased-book-club/assets/23-12.jpg) -->
+<img src="/unerased-book-club/assets/2023/23-12.jpg"
+     alt="Book Cover"
+     style="center">
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+# Context Links
+- Truth as Fiction: When the Tiger Came Down the Mountain by Nghi Vo ([Tor][tor])
+- Milwaukee Public Library Interview with Nghi Vo ([YouTube][youtube])
+- Los Angeles Public Library Interview With an Author: Nghi Vo ([LAPL][lapl])
+- Folk Tales within Folk Tales in “When the Tiger Came Down the Mountain” ([Chicago Review of Books][chicago])
+
+# Guiding Questions
+1. How does queerness exist or not exist in this novella?
+2. How does the novella subvert gender norms?
+3. This novella uses the story-within-a-story format. What are books have you read that effectively use this format? How effective did Nghi Vo use the strategy in this novella?
+4. A recurring theme in this novella is challenging bias. How do the characters handle bias? How do they challenge it? How do they reconcile bias?
+
+# Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[tor]: https://www.tor.com/2021/01/06/book-reviews-when-the-tiger-came-down-the-mountain-by-nghi-vo/
+[youtube]: https://youtu.be/oQ8BdIdEB-8
+[lapl]: https://www.lapl.org/collections-resources/blogs/lapl/interview-author-nghi-vo
+[chicago]: https://chireviewofbooks.com/2020/12/11/the-tiger-came-down-the-mountain/
+[aadl]: www.youtube.com/@AADL
+[author-interview]: https://www.instagram.com/unerasedbc/
