@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "November 2023: We Measure the Earth With Our Bodies"
+date:   2023-11-03 15:56:05 -0500
+categories: book 2023
+---
+
+<img src="/unerased-book-club/assets/2023/23-11.jpg"
+     alt="Book Cover"
+     style="center">
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+# Context Links
+- This multigenerational saga follows the travails of Tibetan exiles. ([Washington Independent Review of Books][washington])
+- Tsering Yangzom Lama examines the cost of exile in debut novel We Measure the Earth with Our Bodies ([CBC][cbc])
+- Interview with Tsering Yangzom Lama ([OSU.edu][osu])
+- Tsering Yangzom Lama ([First Draft; podcast][first-draft])
+- Tibet History Timeline ([Free Tibet][free-tibet])
+- Tibetan History ([International Campaign for Tibet][tibet-campaign])
+
+# Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[washington]: https://www.washingtonindependentreviewofbooks.com/index.php/bookreview/we-measure-the-earth-with-our-bodies-a-novel
+[cbc]: https://www.cbc.ca/books/tsering-yangzom-lama-examines-the-cost-of-exile-in-debut-novel-we-measure-the-earth-with-our-bodies-1.6474078
+[osu]: http://osu.edu/
+[first-draft]: https://podglomerate.com/shows/first-draft-a-dialogue-on-writing/first-draft-tsering-yangzom-lama/
+[free-tibet]: https://freetibet.org/freedom-for-tibet/history-of-tibet/tibets-history-timelines/
+[tibet-campaign]: https://savetibet.org/why-tibet/history/
+[aadl]: www.youtube.com/@AADL
+[author-interview]: https://www.instagram.com/unerasedbc/
