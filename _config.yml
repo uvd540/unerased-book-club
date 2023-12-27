@@ -22,8 +22,8 @@ title: Unerased Book Club
 email: sheela@unerasedbookclub.com
 description: >- # this means to ignore newlines until "baseurl:"
   building community through Asian American literature - a project of Rising Voices
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "uvd540.github.io/unerased-book-club" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/unerased-book-club" # the subpath of your site, e.g. /blog
+url: "uvd540.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  uvd540
 
 # Build settings
