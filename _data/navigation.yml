@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "About UBC"
     url: /about/
   - title: "Posts"
