@@ -22,7 +22,7 @@ subtitle                 : community through Asian American literature - powered
 name                     : "Yuvraj Dewan"
 description              : "An online Asian American literature book club"
 url                      : "https://uvd540.github.io"
-baseurl                  : "/unerased-book-club"
+baseurl                  : /unerased-book-club/
 repository               : "uvd540/unerased-book-club"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo.webp"
@@ -217,7 +217,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:title
 paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
