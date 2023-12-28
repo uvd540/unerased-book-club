@@ -3,6 +3,7 @@ layout: single
 title:  "We Measure the Earth With Our Bodies"
 date:   2023-11-03 15:56:05 -0500
 categories: book 2023
+excerpt: "November 2023"
 sidebar:
   - title: "November 2023"
     image: "/assets/2023/23-11.jpg"
