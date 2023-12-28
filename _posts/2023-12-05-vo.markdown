@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "December 2023: When the Tiger Came Down the Mountain"
 date:   2023-12-05 15:56:05 -0500
 categories: book 2023

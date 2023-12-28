@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About Unerased Book Club
 permalink: /about/
 ---

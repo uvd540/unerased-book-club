@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Unerased Book Club
+author_profile: false
 ---
 
-# How does this book club work?
+**How does this book club work?**
 1. Check out what we are currently reading in the above banner, and see what we have read.
 2. If you like what you see, sign up below.
 3. Start reading!
