@@ -1,17 +1,17 @@
 ---
 layout: single
-title:  "November 2023: We Measure the Earth With Our Bodies"
+title:  "We Measure the Earth With Our Bodies"
 date:   2023-11-03 15:56:05 -0500
 categories: book 2023
+sidebar:
+  - title: "November 2023"
+    image: "/assets/2023/23-11.jpg"
+    image_alt: "Book Cover"
 ---
-
-<img src="/unerased-book-club/assets/2023/23-11.jpg"
-     alt="Book Cover"
-     style="center">
 
 Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
 
-# Context Links
+## Context Links
 - This multigenerational saga follows the travails of Tibetan exiles. ([Washington Independent Review of Books][washington])
 - Tsering Yangzom Lama examines the cost of exile in debut novel We Measure the Earth with Our Bodies ([CBC][cbc])
 - Interview with Tsering Yangzom Lama ([OSU.edu][osu])
@@ -19,7 +19,7 @@ Order the book through your local bookstore, [online][buy], or check your local 
 - Tibet History Timeline ([Free Tibet][free-tibet])
 - Tibetan History ([International Campaign for Tibet][tibet-campaign])
 
-# Recordings
+## Recordings
 - [Ann Arbor District Library TV discussion][aadl]
 - [Author Interview][author-interview]
 
