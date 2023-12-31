@@ -1,0 +1,44 @@
+---
+layout: single
+title:  "Sparks Like Stars"
+date:   2023-10-01 15:56:05 -0500
+categories: 2023 historic-fiction afghanistan
+excerpt: "October 2023"
+sidebar:
+  - title: "October 2023"
+    image: "/assets/2023/23-10.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Reclaiming Family And Memory In 'Sparks Like Stars' ([NPR][npr1])
+- A Compelling Story of Survival Unfolds in “Sparks Like Stars” by Nadia Hashimi ([BookTrib][booktrib])
+- Saur Revolution ([Wikipedia][wiki])
+- A Look At Afghanistan's 40 Years Of Crisis — From The Soviet War To Taliban Recapture ([NPR][npr2])
+- An April Day That Changed Afghanistan 1: Four decades after the leftist takeover ([Afghanistan Analysts Network][aan])
+
+## Guiding Questions (adapted from [the Princeton Review][princeton])
+- Did the book’s premise and structure match expectations? How did this influence your reading experience? 
+- There are many themes in this book: love, the meaning of family, living in a war-torn country, searching for answers and trying to find peace, starting a new life, grief, survivor guilt, the compassion of strangers, the culture of Afghanistan, and women in Afghanistan. Which theme did you want more of? Less of?
+- Do you think the author presented believable characters?
+- Did you learn anything about Afghanistan's history or the relationship between the United States and Afghanistan? Did the story change your viewpoint of anything?
+- Sitara suffers from survivor guilt, with haunting memories of the day of her family's murder. She's on a journey to reclaim her heritage and accept what happened. How has this shaped her life in a good way? What do you think the negative impact of this experience was?
+- Did any character make you angry? Did you relate to all the characters?
+- The book highlights the early foster care system. Discuss how this made you feel? 
+- Could you sense the author's deep passion for her country and culture in the writing style?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[npr1]: https://www.npr.org/2021/03/06/974051047/reclaiming-family-and-memory-in-sparks-like-stars
+[booktrib]: https://booktrib.com/2021/04/30/a-compelling-story-of-survival-unfolds-in-sparks-like-stars-by-nadia-hashimi/
+[wiki]: https://en.wikipedia.org/wiki/Saur_Revolution
+[npr2]: https://www.npr.org/2021/08/19/1028472005/afghanistan-conflict-timeline
+[aan]: https://www.afghanistan-analysts.org/en/reports/political-landscape/an-april-day-that-changed-afghanistan-four-decades-after-the-leftist-takeover/
+[princeton]: https://www.princetonbookreview.com/book_pages/discussion/sparks-like-stars.php
+[aadl]: www.youtube.com/@AADL
+[author-interview]: https://www.instagram.com/unerasedbc/

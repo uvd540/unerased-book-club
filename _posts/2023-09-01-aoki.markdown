@@ -1,0 +1,36 @@
+---
+layout: single
+title:  "Light From Uncommon Stars"
+date:   2023-09-01 15:56:05 -0500
+categories: 2023 science-fiction fantasy japan queer
+excerpt: "September 2023"
+sidebar:
+  - title: "September 2023"
+    image: "/assets/2023/23-09.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- The Wild and Tender Magic of Ryka Aoki’s Light from Uncommon Stars ([Tor][tor])
+- Defying Gravity: Ryka Aoki’s Light From Uncommon Stars ([The Rumpus][rumpus])
+- Author on pain of trans Asian Americans, joyfully queer stories ([NBC News][nbc])
+
+## Guiding Questions
+- Taken in isolation, without considering any of the other nominated novels you may have already read, did you finish Light from Uncommon Stars and think, “Wow, that book really deserves a Hugo!”? Why or why not?
+- What did you think of the role of the city of Los Angeles in the story? Did you enjoy the passages that focused on local foods, neighborhood businesses, and immigrant communities?
+- Was there a particular character or storyline you enjoyed following more than the others? If yes, what drew you to them? Was there anybody you wished we had spent more (or less) time with?
+- It goes without saying that Katrina’s experiences as a trans woman play a central role in her story. What did you think about how this topic was incorporated into the book? Of the relationship between these experiences and Katrina’s journey as a musician?
+- Did you find the ending to be narratively satisfying? Why or why not?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[tor]: https://www.tor.com/2021/10/07/book-reviews-ryka-aoki-light-from-uncommon-stars/
+[rumpus]: https://therumpus.net/2022/01/18/light-from-uncommon-stars-by-ryka-aoki/
+[nbc]: https://www.nbcnews.com/news/asian-america/author-pain-trans-asian-americans-joyfully-queer-stories-rcna1998
+[aadl]: www.youtube.com/@AADL
+[author-interview]: https://www.instagram.com/unerasedbc/

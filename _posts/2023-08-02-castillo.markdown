@@ -1,0 +1,38 @@
+---
+layout: single
+title:  "How to Read Now"
+date:   2023-08-02 15:56:05 -0500
+categories: 2023 non-fiction philippines
+excerpt: "August 2023"
+sidebar:
+  - title: "August 2023"
+    image: "/assets/2023/23-08.webp"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Elaine Castillo in conversation with Roxane Gay ([YouTube Video Recording][youtube])
+- Review: Who is this writing for? On Elaine Castillo’s “How to Read Now ([Los Angeles Review of Books][la-books])
+- Elaine Castillo: How to Read Now ([Between the Covers Podcast][podcast])
+- Elaine Castillo’s nonfiction debut is required reading for book lovers ([Bookpage][bookpage])
+
+## Guiding Questions
+- What type of reader are you? Would you consider yourself to be a good reader? If not, what do you want to do differently to become a better reader?
+- What’s one way that you’ve changed as a reader over time? 
+- On the cover of the book is a bomb; what points/reflections from Castillo did you find explosive? 
+- Castillo discusses how narratives around land require deeper reading. How does this show up in your town?
+- How does your reading practice differ or act similar between mediums (books, TV, movies, podcasts, etc)?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[youtube]: https://www.youtube.com/watch?v=77yG0ommnjM
+[la-books]: https://lareviewofbooks.org/article/who-is-this-writing-for-on-elaine-castillos-how-to-read-now/
+[podcast]: https://tinhouse.com/podcast/elaine-castillo-how-to-read-now/
+[bookpage]: https://www.bookpage.com/interviews/elaine-castillos-interview-how-to-read-now/
+[aadl]: www.youtube.com/@AADL
+[author-interview]: https://www.instagram.com/unerasedbc/
