@@ -4,6 +4,8 @@ title:  "When the Tiger Came Down the Mountain"
 date:   2023-12-05 15:56:05 -0500
 categories: 2023 vietnam queer fantasy 
 excerpt: "December 2023"
+header:
+  teaser: "/assets/2023/23-12.jpg"
 sidebar:
   - title: "December 2023"
     image: "/assets/2023/23-12.jpg"
