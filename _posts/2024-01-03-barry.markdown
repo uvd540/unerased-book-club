@@ -2,7 +2,7 @@
 layout: single
 title:  "We Ride Upon Sticks"
 date:   2024-01-03 15:56:05 -0500
-categories: 2024 vietnam queer sports magic
+categories: 2024 vietnam queer sports fantasy
 excerpt: "January 2024"
 sidebar:
   - title: "January 2024"

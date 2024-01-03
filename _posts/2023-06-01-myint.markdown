@@ -1,0 +1,41 @@
+---
+layout: single
+title:  "Names for Light: A Family History"
+date:   2023-06-01 15:56:05 -0500
+categories: 2023 detective singapore tech_ethics
+excerpt: "June 2023"
+sidebar:
+  - title: "June 2023"
+    image: "/assets/2023/23-06.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- A Memoir's Painful Question: Where Are You From? ([New York Times][nyt])
+- Author Explores Her Family's Displacement In 'Names For Light: A Family History' ([NPR][npr])
+- A Short History of Burma ([New Internationalist][new])
+- Words of Warning ([The Irrawaddy][river])
+- Names for Light: Thirii Myo Kyaw Myint & Sunisa Manning ([AAWW YouTube[aaww])
+- What happened to Myanmar's ghosts? ([BBC][bbc])
+
+## Guiding Questions
+1. In reading one review of the book, I came across the following reflection: If you can get past the knot of generational descriptors, geographical locations, and time periods, you will be richly rewarded with a deeply moving, lyrical contemplation of family history, individual identity, and home—one that lingers in your mind long after the book is over. How do you react to this reading of the book and your own experience with decontextualized reading, generally? 
+2. Myint quickly realizes her lack of community’s impact on her well being. What communities have you belonged to? Have they sustained through your life? What goes into reimagining your social self? Does literature help you move into community?
+3. Linking generational quirks, stories, and traumas is a central part of Myint’s storytelling. Did this spark any memories or reflections in your family’s storytelling? How did you react to this memory technique?
+4. Myint discusses her family’s stories throughout Burma, describing regions that rarely get coverage for Western consumption. Did this prompt curiosity about Burma’s geography? How does published writing bias itself towards certain places and their geo-cultural differences?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[nyt]: https://www.nytimes.com/2021/08/17/books/review/names-for-light-thirii-myo-kyaw-myint.html 
+[npr]: https://www.npr.org/2021/08/24/1030723343/author-explores-her-familys-displacement-in-names-for-light-a-family-history
+[new]: https://www2.irrawaddy.com/article.php?art_id=6433&page=1
+[river]: https://www2.irrawaddy.com/article.php?art_id=6433&page=1
+[aaww]: https://www.youtube.com/watch?v=4GSWyRdJjpo
+[bbc]:https://www.bbc.com/travel/article/20191112-what-happened-to-myanmars-ghosts
+[aadl]: https://www.youtube.com/watch?v=yzrdAVNeLkc&list=PLoPyFvvHf3jKaoZPgFHh7U2SMmzLOxOd_&index=27
+[author-interview]: https://www.instagram.com/unerasedbc
