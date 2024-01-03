@@ -16,7 +16,7 @@ Order the book through your local bookstore, [online][buy], or check your local 
 - 7 takeaways from our discussion of ‘We Ride Upon Sticks’ with author Quan Barry ([Boston Globe][boston])
 - Flashback to the 80s ([New York Times][nyt])
 - Interview with Quan Barry ([Greenwich Library][glib])
-- Author Spotlight | Quan Barry ([Ann Arbor District Library][aadlcon])
+- Author Spotlight - Quan Barry ([Ann Arbor District Library][aadlcon])
 - What Really Happened At the Salem Witch Trials ([TedTalk][ted])
 
 ## Guiding Questions 
@@ -45,5 +45,5 @@ Pulled from ([Just Us Gals Boston][gals]) and ([All Arts][arts])
 [ted]:https://youtu.be/NVd8kuufBhM
 [gals]: https://www.justusgalsbos.com/blog/book-club-discussion-questions-for-we-ride-upon-sticks-by-quan-barry
 [arts]: https://www.allarts.org/2020/11/ballerina-book-club-nov-quan-barry-we-ride-upon-sticks/
-[aadl]: 
-[author-interview]: 
+[aadl]: www.youtube.com/@AADL
+[author-interview]: https://www.instagram.com/unerasedbc/

@@ -1,0 +1,42 @@
+---
+layout: single
+title:  "The Verifiers"
+date:   2023-07-02 15:56:05 -0500
+categories: 2023 detective singapore tech_ethics
+excerpt: "July 2023"
+sidebar:
+  - title: "July 2023"
+    image: "/assets/2023/23-07.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- My “Perfect Match” & I Broke Up, & It Changed How I Thought About Compatibility ([Refinery 29][ref29])
+- Ten Questions for Jane Pek ([Poets and Writers][paw])
+- The Ethical Challenges of Building a Dating Application ([Mind the Product][product])
+- Tinder may not get you a date. It will get your data. ([Vox][vox])
+- Match expands background checks to two more dating apps ([TechCrunch][crunch])
+- Not This Again: The Worst Tropes In Mysteries And Thrillers ([BookRiot][br])
+
+## Guiding Questions
+1. Plot structure is central to a mystery/thriller/suspense novel. How did Pek’s narrative choices impact the story? How did this affect your reading of the story and your appreciation of the book? 
+2. How effective is the author's use of plot twists and red herrings? Were you able to predict certain things before they happened, or did the author keep you guessing until the end of the story? 
+3. How important is New York City in this book? Would the plot have worked in any other city setting?
+4. How did you respond to the familial plot line?
+5. Data privacy is a key issue in this book. What do these companies offering “free” services owe us? How can we move towards better privacy protections? 
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[ref29]: https://www.refinery29.com/en-us/2022/02/10864067/what-is-compatibilty-real-love-story
+[paw]:https://www.pw.org/content/ten_questions_for_jane_pek
+[product]: https://www.mindtheproduct.com/the-ethical-challenges-of-building-dating-apps/
+[vox]: https://www.vox.com/recode/2020/2/14/21137096/how-tinder-matches-work-algorithm-grindr-bumble-hinge-algorithms
+[crunch]: https://techcrunch.com/2022/07/13/match-expands-tinders-free-background-checks-to-two-more-dating-apps/
+[br]: https://bookriot.com/worst-mystery-tropes/
+[aadl]: https://www.youtube.com/watch?v=3F1BVuEstJw
+[author-interview]: https://www.instagram.com/p/CvI7vymBDjo/
