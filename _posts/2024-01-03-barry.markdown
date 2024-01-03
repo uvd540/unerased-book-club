@@ -1,0 +1,49 @@
+---
+layout: single
+title:  "We Ride Upon Sticks"
+date:   2024-01-03 15:56:05 -0500
+categories: 2024 vietnam queer sports magic
+excerpt: "January 2024"
+sidebar:
+  - title: "January 2024"
+    image: "/assets/2024/24-01.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- 7 takeaways from our discussion of ‘We Ride Upon Sticks’ with author Quan Barry ([Boston Globe][boston])
+- Flashback to the 80s ([New York Times][nyt])
+- Interview with Quan Barry ([Greenwich Library][glib])
+- Author Spotlight | Quan Barry ([Ann Arbor District Library][aadlcon])
+- What Really Happened At the Salem Witch Trials ([TedTalk][ted])
+
+## Guiding Questions 
+Pulled from ([Just Us Gals Boston][gals]) and ([All Arts][arts])
+
+1. What did the Salem Witches (and/or accusers) have in common with the 1989 Danvers Falcons field hockey team?
+2. How did this novel compare to other sports-focused books you’ve read? Have you read other works about women’s sports teams?
+4. What were the biggest points the author was making with this incredibly unique story?
+5. Structurally, our story is told from a “we” point of view. How does this way of writing fit into the book’s larger themes of unity or team?
+6. The chapters are filled with small lies. How does lying fit into friendship? What room does closeness allow in terms of letting someone fib without retribution?
+8. Increasingly, the teammates begin to feel like they are stitched together not only by the signatures scrawled in the pages of the notebook but in the way they physically feel in moments that affect the group as a whole. How does Barry show this and what is unique to the team’s bonded feelings vs. regular friendships?
+9. How does 80s culture inform the book — both its references to pop culture and current events?
+10. What role does the idea of the “It Girl” play in setting up the characters? What about envy?
+11. How do the characters deal with race? What does it mean to be an “other” in Danvers?
+
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: 27thletterbooks.com
+[boston]: https://www.boston.com/culture/books/2020/11/20/takeaways-boston-club-discussion-we-ride-upon-sticks-quan-barry/
+[nyt]:https://www.nytimes.com/2020/03/12/books/review/we-ride-upon-sticks-quan-barry.html
+[glib]:https://youtu.be/VNuSdEz3kbE
+[aadlcon]:https://youtu.be/dWo7-nnCPpQ
+[ted]:https://youtu.be/NVd8kuufBhM
+[gals]: https://www.justusgalsbos.com/blog/book-club-discussion-questions-for-we-ride-upon-sticks-by-quan-barry
+[arts]: https://www.allarts.org/2020/11/ballerina-book-club-nov-quan-barry-we-ride-upon-sticks/
+[aadl]: 
+[author-interview]: 
