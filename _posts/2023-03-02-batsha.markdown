@@ -1,0 +1,43 @@
+---
+layout: single
+title:  "Mother Ocean Father Nation"
+date:   2023-03-01 10:45:05 -0500
+categories: 2023 india migration climate_change family
+excerpt: "March 2023"
+sidebar:
+  - title: "March 2023"
+    image: "/assets/2023/23-03.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Q&A with Nishant Batsha, author of Mother Ocean Father Nation ([The Offing][offing])
+- On a South Pacific Island, Two Siblings Face a Difficult Choice as Racial Tensions Flare ([ElectricLit][lit])
+- Writers & Books: Nishant Batsha: Mother Ocean Father Nation ([YouTube][yt])
+- Indo-Fijians and Fiji’s Coup Culture ([The Diplomat][diplomat])
+- Minorities and the Making of Postcolonial States in International Law ([Third World Approaches to International Law Review][law])
+- When Uganda Expelled Its Asian Population in 1972, Britain Tried to Exclude Them ([New Lines Media][media])
+
+## Guiding Questions 
+1. Who was your favorite character? What character did you identify with the most?  Were there any characters that you disliked? Why?
+2. Did you draw parallels between the imagined history on this imagined island nation and what postcolonial nation building looks like in other countries?
+3. What surprised you the most about the plot?
+4. Was there any part of the plot or aspects of Bhumi or Jaipal that frustrated or upset you? If so, why?
+5. Have you read books with similar themes? Which themes? How did they relate?
+6. What do you think of the book’s cover? How well does it convey what the book is about?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[offing]: https://theoffingmag.com/interviews/qa-with-nishant-batsha-author-of-mother-ocean-father-nation/
+[lit]: https://electricliterature.com/nishant-batsha-novel-mother-ocean-father-nation/
+[yt]: https://www.youtube.com/watch?v=ZP31gzReMwo
+[diplomat]: https://thediplomat.com/2017/03/indo-fijians-and-fijis-coup-culture/
+[law]: https://twailr.com/minorities-and-the-making-of-postcolonial-states-in-international-law/
+[media]: https://newlinesmag.com/essays/when-uganda-expelled-its-asian-population-in-1972-britain-tried-to-exclude-them/
+[aadl]: https://youtu.be/0o53qGvcBSs
+[author-interview]: https://www.instagram.com/p/CqEi_bgD50T/
