@@ -2,11 +2,11 @@
 layout: single
 title:  "The Brothers Paranormal"
 date:   2022-03-01 15:45:05 -0500
-categories: 2023 thai play thriller
+categories: 2022 thai play thriller
 excerpt: "March 2022"
 sidebar:
   - title: "March 2022"
-    image: "/assets/2023/22-3.jpg"
+    image: "/assets/2022/22-3.jpg"
     image_alt: "Book Cover"
 ---
 

@@ -6,7 +6,7 @@ categories: 2022 guyana memoir music poetry translation queer
 excerpt: "January 2022"
 sidebar:
   - title: "January 2022"
-    image: "/assets/2023/22-1.jpg"
+    image: "/assets/2022/22-1.jpg"
     image_alt: "Book Cover"
 ---
 
