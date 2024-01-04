@@ -46,5 +46,5 @@ Order the book through your local bookstore, [online][buy], or check your local 
 [larb]: https://losangelesreview.org/review-pronounce-knife-souvankham-thammavongsa/
 [cbc]: https://www.cbc.ca/radio/thenextchapter/full-episode-aug-9-2021-1.5869059/souvankham-thammavongsa-shares-her-feelings-about-winning-the-scotiabank-giller-prize-1.5869062
 [hbg]: https://www.hachettebookgroup.com/wp-content/uploads/2019/07/HTPK-RGG-1.pdf
-[aadl]: https://youtu.be/oSSiwsLe1TM
+[aadl]: https://youtu.be/6bZLayJ7OVA
 [author-interview]: instagram.com/unerasedbc

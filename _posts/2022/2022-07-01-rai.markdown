@@ -1,0 +1,46 @@
+---
+layout: single
+title:  "The Right Swipe"
+date:   2022-07-01 11:45:05 -0500
+categories: 2022 india tech_ethics romance 
+excerpt: "July 2022"
+sidebar:
+  - title: "July 2022"
+    image: "/assets/2022/22-7.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Romance Novels are for Everyone ([Slate News][slate])
+- Football Island: The Hunting Ground for Our Samoan Brothers ([Harvard Crimson][harvard])
+- Women's Stories Reveal Systemic Sexual Harassment In Tech ([CNN][cnn])
+- Steamy Romance Novels Flush With Color ([TIME][time])
+- What a lifetime of playing football can do to the human brain ([Vox][vox])
+- How To Fall In Love With Romance Books ([NPR Pop Culture Happy Hour][npr])
+- Alisha Rai and The Right Swipe: A Conversation About Modern Love ([Love in Panels][love])
+
+## Guiding Questions from ([Hachette Book Group ][hbg])
+
+1. How frequently do you read romance novels?
+2. How did you react to the two separate character arcs?
+3. Did you have any reactions to an inter-racial story that did not include a white love interest?
+4. In the recent SCOTUS rulings upending established case law around privacy and interpersonal decisions (abortion, birth control, same-sex marriage, and by extension, inter-racial marriage), how did you react to this story?
+5. Rhi’s company, Crush, has a similar backstory to Bumble. If you’ve used dating applications, have you thought about the pros and cons to the business behind the technology?
+6. Samson’s story includes chronic traumatic encephalopathy. How did you react to this story line?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2022-picks
+[slate]: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vdHJ1bXBjYXN0/episode/MTAwMDU1NTc0MDgxOA==
+[harvard]: https://www.thecrimson.com/column/pasefika-presence/article/2020/3/6/langkilde-football-island-samoan-brothers/
+[cnn]: https://money.cnn.com/technology/sexual-harassment-tech/
+[time]: https://time.com/43710/interracial-romance-novels/
+[vox]: https://www.vox.com/science-and-health/2018/2/2/16956440/super-bowl-2020-concussion-symptoms-cte-football-nfl-brain-damage-youth
+[npr]: https://www.npr.org/transcripts/1009060841
+[love]: https://www.loveinpanels.com/prose/alish-rai-the-right-swipe-interview
+[aadl]: https://youtu.be/ErkNRxrQza8
+[author-interview]: instagram.com/unerasedbc
