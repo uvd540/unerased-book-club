@@ -1,0 +1,42 @@
+---
+layout: single
+title:  "Almost American Girl"
+date:   2023-05-01 13:56:05 -0500
+categories: 2023 korea graphic_novel coming_of_age
+excerpt: "May 2023"
+sidebar:
+  - title: "May 2023"
+    image: "/assets/2023/23-05.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- “In ALMOST AMERICAN GIRL, the universal language of comics connected Robin Ha to her new culture ([The Beat][beat])
+- “Immigration as Inspiration: Who gets to be an all-American girl?” ([Bitch Media][bitch])
+- “Cartoonist Robin Ha Thinks Inside the Box” ([Kirkus Reviews][review])
+- Genre Guide: Graphic Memoirs ([The Hub][hub])
+- Autobiographical comics ([Wikipedia][wiki])
+
+## Guiding Questions From ([The Library Ladies][ladies])
+1. How does Ha’s immigration experience compare to others you’ve read? If you’re an immigrant, how does it compare to your own experience?
+2. What did you think of the artwork in this book? Was there anything in particular that stood out to you?
+3. How did you react to Robin’s mother’s parts of this book? Did you feel like you understood the choices that she made?
+4. How did you react to this depiction of a blended family?
+5. Do you think that today Robin would have had the same experience when coming to a completely new culture and country? Why or why not? 
+6. How did you feel about where she ended the story in terms of where she was in her life at the time? Did that seem like a good way to wrap the story up?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[beat]: https://www.comicsbeat.com/interview-robin-ha-almost-american-girl/
+[bitch]: https://www.bitchmedia.org/article/robin-ha-on-being-an-almost-american-girl
+[review]: https://www.kirkusreviews.com/news-and-features/articles/robin-ha-almost-american-girl-interview/
+[hub]: https://www.yalsa.ala.org/thehub/2015/02/16/genre-guide-graphic-memoirs/
+[wiki]: https://en.wikipedia.org/wiki/Autobiographical_comics
+[ladies]: https://thelibraryladies.com/2020/03/16/bookclub-review-almost-american-girl
+[aadl]: https://youtu.be/srfv7twQwIQ
+[author-interview]: https://www.instagram.com/p/CsmkWfghpry/
