@@ -1,0 +1,37 @@
+---
+layout: single
+title:  "Antiman"
+date:   2022-01-01 15:45:05 -0500
+categories: 2022 guyana memoir music poetry translation queer 
+excerpt: "January 2022"
+sidebar:
+  - title: "January 2022"
+    image: "/assets/2023/22-1.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Indo-Caribbean Music ([Brown History Podcast][bhp1])
+- Rajiv Mohabir Interview ([Brown HIstory Podcast][bhp2])
+- Sensitivity as a Superpower: Rajiv Mohabir Interviewed by Mathangi Subramanian ([Bomb Magazine][bomb])
+- You Can’t Stop Rivers From Running: Talking With Rajiv Mohabir ([Rumpus][rumpus])
+
+## Guiding Questions 
+1. The author forewarns the reader that this book is in a hybrid style. How did you react to the mix of writing styles and languages?
+2. Were you familiar with the legacy of indentured servitude in the Caribbean?
+3. What aspects of Mohabir’s queer experiences could you relate to?
+4. What does Antiman tell us about homogenized cultures in the diaspora?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2022-picks
+[bhp1]: https://www.brownhistorypodcast.com/episodes/ep-26-indo-caribbean-music
+[bhp2]: https://www.brownhistorypodcast.com/episodes/ep-05-indo-caribbeans-w-rajiv-mohabir
+[bomb]: https://bombmagazine.org/articles/sensitivity-as-a-superpower-rajiv-mohabir-interviewed/
+[rumpus]: https://therumpus.net/2021/10/the-rumpus-interview-with-rajiv-mohabir-2/
+[aadl]: https://youtu.be/LWS4yss-mhI
+[author-interview]: https://www.instagram.com/reel/CY7lib6B_lJ/
