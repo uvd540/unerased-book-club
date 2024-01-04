@@ -1,0 +1,41 @@
+---
+layout: single
+title:  "from unincorporated territories: [guma]"
+date:   2023-02-01 15:45:05 -0500
+categories: 2023 guam poetry imperialism 
+excerpt: "February 2023"
+sidebar:
+  - title: "February 2023"
+    image: "/assets/2023/23-02.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Review of From unincorporated Territory: [GUMA] ([Asian American Literary][aal])
+- A Brief, 500-Year History of Guam ([The Smithsonian][smith])
+- In Guam, even the dead are dying: the US military is building on the graves of our ancestors ([The Guardian][guard])
+- The US captured one of its most important military outposts from an enemy who didn’t even know it was at war ([Business Insider][bi])
+- Guam’s ecological fate is in the hands of the US military ([National Geographic][ng])
+- Military buildup’s environmental takedown ([Scientific American][sa])
+
+## Guiding Questions 
+1. What do we learn about Guahan (Guam) in this collection? How familiar were you with its history prior to reading this collection? 
+1. Discuss the role of the US military in the history and environment of Guahan. 
+1. This collection seeks to interrogate the meaning of “home”, especially in the context of migration due to colonialism, military occupation, and economic necessity. How is “home” then defined? Where is home? Who gets to call it “home?” Can “home” be reclaimed after one’s land has been colonized and militarized?
+1. The author uses a variety of stylistic devices to tell multiple interwoven stories (notice the use of italics, strikethroughs, poetry and prose). How does this affect our experience of reading this collection? What does this styling add to our understanding of Guahan?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[aal]: http://galatearesurrection23.blogspot.com/2014/12/from-unincorporated-territory-guma-by.html
+[smith]: https://www.smithsonianmag.com/smithsonian-institution/brief-500-year-history-guam-180964508/
+[guard]: https://www.theguardian.com/world/2022/sep/17/in-guam-even-the-dead-are-dying-the-us-military-is-building-on-the-graves-of-our-ancestors
+[bi]:https://www.businessinsider.com/how-guam-became-one-of-most-important-us-military-bases-2021-6 
+[ng]: https://www.nationalgeographic.com/environment/article/guam-endangered-species-ecology-threatened-us-military-base-expansion
+[sa]: https://blogs.scientificamerican.com/expeditions/military-buildups-environmental-takedown/
+[aadl]: https://youtu.be/m8ufW5C0-Eo
+[author-interview]: https://www.instagram.com/p/CodeaA_B1yk/
