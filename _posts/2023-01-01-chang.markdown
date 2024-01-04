@@ -1,0 +1,38 @@
+---
+layout: single
+title:  "Gods of Want"
+date:   2023-01-01 15:45:05 -0500
+categories: 2023 china short_stories surreal
+excerpt: "January 2023"
+sidebar:
+  - title: "January 2023"
+    image: "/assets/2023/23-01.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Never Marry A Man With A Human Mother ([Electric Literature][lit])
+- From child gossip columnist to acclaimed author: K-Ming Chang’s search for the truth ([The Guardian][guard])
+- K-Ming Chang’s “Gods of Want” ([LA Review of Books][larb])
+- The Reverberations of Desire in “Gods of Want” ([Chicago Review of Books][crob])
+
+## Guiding Questions 
+1. How does the author use myth in these short stories? Discuss the ways they inform our reading of the stories and who it’s for (audience). 
+1. Weaved through the stories is the theme of memories, real, imagined, mythically transformed. How does the way Chang uses memory transform our experiences of reading? 
+1. How are mothers represented in these stories? What mother and daughter relationships resonated with you?
+1. Stories about the relationship between mother-in-laws and daughter-in-laws are ubiquitous in Asian (Asian American) literature/media (as well as African literature). How does this compare to American literature? What representations can you think of? 
+1. Another theme in this collection is queerness. Discuss Chang’s views of queerness – what offerings does she give us in this collection? How is it represented and how does it compare/contrast with other representations of queer Asian American narratives you’ve read before? 
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2023-picks
+[lit]: https://electricliterature.com/xifu-gods-of-want-k-ming-chang/
+[guard]: https://www.theguardian.com/books/2022/aug/17/from-child-gossip-columnist-to-acclaimed-author-k-ming-changs-search-for-the-truth
+[larb]: https://lareviewofbooks.org/av/k-ming-changs-gods-of-want/
+[crob]: https://chireviewofbooks.com/2022/07/26/gods-of-want/
+[aadl]: https://youtu.be/8Gi8UQQ7ZCM
+[author-interview]: https://www.instagram.com/p/Cn5c3-Ph4EZ/
