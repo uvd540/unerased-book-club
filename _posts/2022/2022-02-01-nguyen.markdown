@@ -1,0 +1,33 @@
+---
+layout: single
+title:  "Magic Fish"
+date:   2022-02-01 15:45:05 -0500
+categories: 2022 vietnam queer graphic_novel fairy_tale
+excerpt: "February 2022"
+sidebar:
+  - title: "February 2022"
+    image: "/assets/2023/22-2.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Trung Le Nguyen Interview ([Books Connect Us][us])
+- The Magic Fish author Trung Le Nguyen discusses the heroism of fairy tales: 'It's a fantasy of growth' ([Entertainment Weekly][ew])
+
+## Guiding Questions 
+1. What stories from your cultural background have equivalencies in Western storytelling?
+3. How did you react to the visual storytelling? 
+2. The Magic Fish interweaves “love” into all of the stories. How does this show up in the way you tell stories about your own life?
+3. The Magic Fish highlights how language and cultural context impacts Tien and Helen. What do these mean for your own family and community?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2022-picks
+[us]: https://booksconnectus.simplecast.com/episodes/551464dd
+[ew]: https://ew.com/books/the-magic-fish-trung-le-nguyen-interview/
+[aadl]: https://youtu.be/9mgErXT4BcA
+[author-interview]: https://www.instagram.com/reel/CaBNd1ZDnpe/
