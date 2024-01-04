@@ -6,7 +6,7 @@ categories: 2022 vietnam queer graphic_novel fairy_tale
 excerpt: "February 2022"
 sidebar:
   - title: "February 2022"
-    image: "/assets/2022/22-2.jpg"
+    image: "/assets/2022/22-2.jpeg"
     image_alt: "Book Cover"
 ---
 

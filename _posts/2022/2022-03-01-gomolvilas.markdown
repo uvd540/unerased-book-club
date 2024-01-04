@@ -6,7 +6,7 @@ categories: 2022 thai play thriller
 excerpt: "March 2022"
 sidebar:
   - title: "March 2022"
-    image: "/assets/2022/22-3.jpg"
+    image: "/assets/2022/22-3.jpeg"
     image_alt: "Book Cover"
 ---
 

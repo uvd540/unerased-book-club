@@ -1,0 +1,38 @@
+---
+layout: single
+title:  "A Nail the Evening Hangs On"
+date:   2022-05-01 17:45:05 -0500
+categories: 2022 cambodian poetry 
+excerpt: "May 2022"
+sidebar:
+  - title: "May 2022"
+    image: "/assets/2022/22-5.jpeg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- Paranoid Reality: Monica Sok’s A Nail The Evening Hangs On ([The Rumpus][rumpus])
+- “A Nail the Evening Hangs On”, poetry by Monica So ([Asian Review of Books][arb])
+- Monica Sok on Writing the Cambodian Story Beyond Trauma ([LitHub][lit])
+- How American war policies opened the door to the Taliban and Khmer Rouge ([The Globe and Mail][mail])
+- Cambodian Deportees Return to a 'Home' They've Never Known ([The Atlantic][atlantic])
+- Inside the Cambodian Diaspora in America ([Blind Magazine][blind])
+## Guiding Questions 
+
+None
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2022-picks
+[rumpus]: https://therumpus.net/2020/06/a-nail-the-evening-hangs-on-by-monica-sok/
+[arb]: https://asianreviewofbooks.com/content/a-nail-the-evening-hangs-on-poetry-by-monica-sok/
+[lit]: https://lithub.com/monica-sok-on-writing-the-cambodian-story-beyond-trauma/
+[mail]: https://www.theglobeandmail.com/opinion/article-how-american-war-policies-opened-the-door-to-the-taliban-and-khmer/
+[atlantic]: https://www.theatlantic.com/international/archive/2019/01/america-deports-cambodian-refugees/580393/
+[blind]: https://www.blind-magazine.com/en/news/3662-inside-the-cambodian-diaspora-in-america-en
+[aadl]: https://youtu.be/oSSiwsLe1TM
+[author-interview]: instagram.com/unerasedbc
