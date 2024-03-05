@@ -1,0 +1,35 @@
+---
+layout: single
+title:  "Hijab Butch Blues"
+date:   2024-03-01 11:45:05 -0500
+categories: 2024 memoir queer
+excerpt: "March 2024"
+sidebar:
+  - title: "March 2024"
+    image: "/assets/2024/24-03.jpg"
+    image_alt: "Book Cover"
+---
+
+Order the book through your local bookstore, [online][buy], or check your local library for digital and physical loans. 
+
+## Context Links
+- ‘Hijab Butch Blues’ challenges stereotypes and upholds activist self-care ([NPR][npr])
+- Writing a Book is an Act of Prayer ([Electric Lit][lit])
+
+## Guiding Questions 
+
+Some of these questions were adapted from the Audacious Book Club. 
+1. In the first section of the book, Lamya discusses her adolescent years: her boredom with her classes, feeling nothing, wanting to disappear. Did Lamya’s experiences remind you at all of your own teenage angst? How did you deal with those feelings? Did you have any moments, like Lamya reading about Maryam, that made you feel less alone? 
+2. In the second section of the book, Lamya H. redefines queerness for themself. How does this challenge notions of what it means to be queer? How has your understanding of queerness evolved over time? 
+3. In the final chapter, Lamya touches on her own activist burnout, and decides she’s not going to stop fighting, but is going to fight differently. How do you choose which battles you’ll engage in? Who are you in community with and how does that help you keep going? How has your personal activism changed or evolved over time? 
+4. This book delves deeply into the Quran as Lamya embraces her Islamic faith. What did you learn about Islam? How, if at all, have your views shifted?
+
+## Recordings
+- [Ann Arbor District Library TV discussion][aadl]
+- [Author Interview][author-interview]
+
+[buy]: https://bookshop.org/lists/2024-picks
+[npr]: https://www.npr.org/2023/02/13/1155638498/lamya-h-hijab-butch-blues-guide-to-islam-queer-manifesto
+[lit]:https://electricliterature.com/hijab-butch-blues-interview-memoir-book-lamya-h/
+[aadl]: https://www.youtube.com/@AADL
+[author-interview]: instagram.com/unerasedbc
